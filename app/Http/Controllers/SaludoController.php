@@ -9,8 +9,8 @@ class SaludoController extends Controller
     public function saludo()
     {
         $persona = [
-            'nombre' => 'Juan',
-            'edad' => 35,
+            'nombre' => 'Sebas',
+            'edad' => 29,
             'profesion' => 'Tester de software'
         ];
 

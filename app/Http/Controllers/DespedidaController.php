@@ -9,8 +9,8 @@ class DespedidaController extends Controller
     public function despedida()
     {
         $persona = [
-            'nombre' => 'Juan',
-            'edad' => 35,
+            'nombre' => 'Sebas',
+            'edad' => 29,
             'profesion' => 'Tester de software'
         ];
 
